@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Junior Software Engineer<br>📚 Senior Computer Engineering Student at METU.<br><br>I have been working with .NET, C#, and JS for about a year, and during this time, I have had the opportunity to work with SQL and NoSQL databases and I was involved in the entire software development life cycle (SDLC) process. <br><br>I have also completed one DevOps internship and two software development internships in the past, and I am familiar with DevOps processes.<br><br>Lately, I have been interested in cybersecurity and have been co-authoring articles with a friend and mentor on cybersecurity.<br>You can find my personal projects, assignments, and articles in this profile.</p>
+<p align="left">✨ Junior Software Engineer<br>📚 Senior Computer Engineering Student at METU in Turkey.<br><br>I have been working with .NET, C#, and JS for about a year, and during this time, I have had the opportunity to work with SQL and NoSQL databases and I was involved in the entire software development life cycle (SDLC) process. <br><br>I have also completed one DevOps internship and two software development internships in the past, and I am familiar with DevOps processes.<br><br>Lately, I have been interested in cybersecurity and have been co-authoring articles with a friend and mentor on cybersecurity.<br>You can find my personal projects, assignments, and articles in this profile.</p>
 
 ###
 
