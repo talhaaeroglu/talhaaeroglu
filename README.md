@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Junior Software Engineer<br>📚 Senior Computer Engineering Student at METU in Turkey.<br><br>I have been working with .NET, C#, and JS for about a year, and during this time, I have had the opportunity to work with SQL and NoSQL databases and I was involved in the entire software development life cycle (SDLC) process. <br><br>I have also completed one DevOps internship and two software development internships in the past, and I am familiar with DevOps processes.<br><br>Lately, I have been interested in cybersecurity and have been co-authoring articles with a friend and mentor on cybersecurity.<br>You can find my personal projects, assignments, and articles in this profile.</p>
+<p align="left">✨ Junior Software Engineer<br>📚 Senior Computer Engineering Student at METU in Turkey.<br><br>I have worked with .NET, C#, and JS for about a year and a half, and during this time, I have had the opportunity to work with SQL and NoSQL databases and I was involved in the entire software development life cycle (SDLC) process. <br><br>I have also completed two DevOps internships and two software development internships in the past, and I am familiar with DevOps processes.<br><br>Lately, I have been interested in cybersecurity and have been co-authoring articles with a friend and mentor on cybersecurity.<br>You can find my personal projects, assignments, and articles in this profile.</p>
 
 ###
 
@@ -31,10 +31,12 @@
 </div>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/talha-eroglu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/talhaaeroglu/resume/blob/e87d67c1427bf2ae06bb8b4390044d377c9c6dee/Resume.pdf" target="_blank">
+    My resume
   </a>
 </div>
 
