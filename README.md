@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Software Developer at Trendyol Group<br>📚 4th Year Computer Engineering Student at METU in Turkey.<br><br>I have worked with .NET, C#, and JS for about a year and a half, and during this time, I have had the opportunity to work with SQL and NoSQL databases and I was involved in the entire software development life cycle (SDLC) process. <br><br>I have also completed two DevOps internships and two software development internships in the past, and I am familiar with DevOps processes.<br><br>Lately, I have been interested in cybersecurity and have been co-authoring articles with a friend and mentor on cybersecurity.<br>You can find my personal projects, assignments, and articles in this profile.</p>
+<p align="left">✨ Software Developer at Trendyol Group<br><br><br>I have worked with .NET, C#, and JS for about a year and a half, and during this time, I have had the opportunity to work with SQL and NoSQL databases and I was involved in the entire software development life cycle (SDLC) process. <br><br>I have also completed two DevOps internships and two software development internships in the past, and I am familiar with DevOps processes.<br><br>Lately, I have been interested in cybersecurity and have been co-authoring articles with a friend and mentor on cybersecurity.<br>You can find my personal projects, assignments, and articles in this profile.</p>
 
 ###
 
